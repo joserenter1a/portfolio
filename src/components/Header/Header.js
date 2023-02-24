@@ -32,7 +32,7 @@ const Header = () =>  (
       </li>      
       <li>
         <a href="https://joserenter1a.github.io/Renteria_Jose_Resume.pdf">
-          <NavLink>Resume</NavLink>
+          <NavLink>Resumé</NavLink>
         </a>
       </li>   
     </Div2>
