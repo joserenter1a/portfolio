@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillBehanceSquare, AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -7,21 +7,29 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 const Footer = () => {
   return (
     <FooterWrapper>
+       <LinkItem>Contact Information</LinkItem>
       <LinkList>
+      
         <LinkColumn>
+        
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:314-343-3432">209-918-9148</LinkItem>
+          <LinkItem href="tel:209-918-9148">209-918-9148</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href="mailto:jrenter3@uoregon.edu">
             jrenter3@uoregon.edu
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          
+          <Slogan> As a college student seeking internship opportunities, 
+            I am always looking to connect with potential employers and learn more about the industry. 
+            If you would like to inquire about an internship position, Feel free to reach me via email or text.</Slogan>
+        <Slogan>  Thank you for visiting my developer portfolio!</Slogan>
+        
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/joserenter1a">
@@ -29,6 +37,9 @@ const Footer = () => {
           </SocialIcons>
           <SocialIcons href="https://www.linkedin.com/in/jos%C3%A9-renteria-b43443234/">
             <AiFillLinkedin size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://www.linkedin.com/in/jos%C3%A9-renteria-b43443234/">
+            <AiFillBehanceSquare size="3rem" />
           </SocialIcons>
 
         </SocialContainer>
