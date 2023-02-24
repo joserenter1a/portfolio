@@ -38,7 +38,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/jos%C3%A9-renteria-b43443234/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/jos%C3%A9-renteria-b43443234/">
+          <SocialIcons href="https://www.behance.net/joserenteria8">
             <AiFillBehanceSquare size="3rem" />
           </SocialIcons>
 
