@@ -1,24 +1,26 @@
 {
-  "name": "portfolio_nextjs",
   "homepage": "https://joserenter1a.github.io/portfolio",
+  "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "next start"
   },
   "dependencies": {
-    "gh-pages": "^5.0.0",
-    "next": "10.2.3",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
     "react-icons": "^4.2.0",
     "react-router-dom": "^6.8.1",
     "styled-components": "^5.3.0",
     "styled-normalize": "^8.0.7",
     "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
