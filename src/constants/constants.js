@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Calorie Tracker Visualizer',
     description: "Using Python and Numpy, a simple calorie tracker to help visualize progress.",
-      image: '/images/1.png',
+      image: 'public/images/1.png',
       tags: ['Python', 'Numpy', 'Matplotlib'],
     source: 'https://github.com/joserenter1a/calorie-tracker-visualizer',
     visit: 'https://raw.githubusercontent.com/joserenter1a/calorie-tracker-visualizer/main/main.py',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Pacman Q-Learning Agent',
     description:"Implementation of an approximate Q-learning agent that learns weights for features of states. Project for CS471 at the University of Oregon. ",
-    image: '/images/2.png',
+    image: 'public/images/2.png',
     tags: ['Python3', 'Tkinter'],
     source: 'https://github.com/joserenter1a/CS471-Work/tree/main/reinforcement',
     visit: 'https://raw.githubusercontent.com/joserenter1a/CS471-Work/main/reinforcement/pacman.py',
