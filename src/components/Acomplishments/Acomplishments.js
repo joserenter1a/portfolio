@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 315, text: 'Data Structures & Algorithms'},
-  { number: 330, text: 'C, C++, Unix', },
+  { number: 399, text: 'Cloud Computing', },
   { number: 471, text: 'Artificial Intelligence', },
   { number: 415, text: 'Operating Systems', }
 ];
