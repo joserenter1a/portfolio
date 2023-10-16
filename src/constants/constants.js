@@ -20,7 +20,7 @@ export const projects = [
     {
     title: 'TeqPro (2023)',
     description:"Cloud-Based SaaS Technical Interview Platform with built-in code editor and real-time audio & video conferencing. ",
-    image: 'images/3.png',
+    image: 'images/TeqPro_Demo_ScreenShot.png',
     tags: ['React', 'Node.js', 'Agora-SDK'],
     source: 'https://github.com/joserenter1a/teq-pro',
     visit: 'https://www.youtube.com/watch?v=yEGAUOvKUmY',
