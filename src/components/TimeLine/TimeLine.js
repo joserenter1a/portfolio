@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      A third year computer science student, with a passion for software design aesthetics and a strong background in graphic design. I am constantly seeking to push the boundaries of what it means to be a software designer, and expand my skillset in both the technical and visual realm.
+      A fourth year computer science student, with experience in all aspects of software development and a strong background in graphic design. I am constantly seeking to push the boundaries of what it means to be a software designer, and expand my skillset in both the technical and visual realm.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
