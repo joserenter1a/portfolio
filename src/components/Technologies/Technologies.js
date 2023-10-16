@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I am currently learning and working with a range of technologies in the web development and software engineering world.
+      I am currently learning and working with a range of technologies in the mobile development and software engineering world.
       <br/>From Back-end To Design, here is a bit about what I am currently working with:
     </SectionText>
     <List>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js
+            React, React-Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node, Python, C, and C++
+            JavaScript/Node.js, Python, C, and C++
           </ListParagraph>
         </ListContainer>
       </ListItem>
