@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'DreamJob (2023)',
     description:"A Cross-Platform mobile application built to search for and land your dream job. Powered by JSearch API",
-    image: 'images/4.png',
+    image: 'images/dreamjob.JPEG',
     tags: ['React-Native', 'Node.js', 'Expo-CLI', 'JSearch Api'],
     source: 'https://github.com/joserenter1a/react-native-dreamjob',
     visit: 'https://github.com/joserenter1a/react-native-dreamjob',
