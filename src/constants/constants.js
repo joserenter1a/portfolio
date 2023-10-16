@@ -23,7 +23,7 @@ export const projects = [
     image: 'images/TeqPro_Demo_ScreenShot.png',
     tags: ['React', 'Vite', 'Node.js', 'Agora-SDK'],
     source: 'https://github.com/joserenter1a/teq-pro',
-    visit: 'https://www.youtube.com/watch?v=yEGAUOvKUmY',
+    demo: 'https://www.youtube.com/watch?v=yEGAUOvKUmY',
     id: 2,
   },
   {
