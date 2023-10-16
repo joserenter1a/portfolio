@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Pacman Q-Learning Agent (2022)',
-    description:"Implementation of an approximate Q-learning agent that learns weights for features of states. Project for CS471 at the University of Oregon. ",
+    description:"Implementation of an approximate Q-learning agent that learns weights for features of states. ",
     image: 'images/2.png',
     tags: ['Python3', 'Tkinter'],
     source: 'https://github.com/joserenter1a/CS471-Work/tree/main/reinforcement',
