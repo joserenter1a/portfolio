@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://github.com/joserenter1a/PySonic',
     id: 4
   },
+  {
+    title: 'Auth-Master (2024)',
+    description:"Machine-Generated Text Detection Utility Application using Bidirectional Encoder Representations from Transformers (BERT) Model.",
+    image: 'images/auth-master_SS.png',
+    tags: ['Python3', 'Tkinter', 'Originality.ai API', 'EmailRep API'],
+    source: 'https://github.com/joserenter1a/Auth-Master',
+    visit: 'https://github.com/joserenter1a/Auth-Master',
+    id: 5
+  },
 ];
 
 export const TimeLineData = [
