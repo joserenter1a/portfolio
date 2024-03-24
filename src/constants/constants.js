@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://github.com/joserenter1a/react-native-dreamjob',
     id: 3,
   },
+  {
+    title: 'PySonic (2024)',
+    description:"A grid-based Python3 Editor for BLV (Blind/Low-Vision) Programmers with sonic feedback, screen reader compatibility, and other accessiblity features.",
+    image: 'images/PySonic_SS.png',
+    tags: ['React', 'Vite', 'Node.js', 'Web Speech API'],
+    source: 'https://github.com/joserenter1a/PySonic',
+    visit: 'https://github.com/joserenter1a/PySonic',
+    id: 4
+  },
 ];
 
 export const TimeLineData = [
