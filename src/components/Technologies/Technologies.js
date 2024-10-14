@@ -30,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            JavaScript/Node.js, Python, C, and C++
+            JavaScript/Node.js, Python, C, and C#
           </ListParagraph>
         </ListContainer>
       </ListItem>
