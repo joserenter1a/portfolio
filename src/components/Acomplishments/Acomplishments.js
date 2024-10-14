@@ -4,8 +4,8 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 315, text: 'Data Structures & Algorithms'},
-  { number: 399, text: 'Cloud Computing', },
+  { number: 422, text: 'Software Engineering'},
+  { number: 433, text: 'Network Security', },
   { number: 471, text: 'Artificial Intelligence', },
   { number: 415, text: 'Operating Systems', }
 ];
