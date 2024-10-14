@@ -61,5 +61,5 @@ export const TimeLineData = [
   { year: 2021, text: 'Hired as a CS Encore Leader', },
   { year: 2023, text: 'Interned at Connected Lane County as Full-Stack Mobile Developer', },
   { year: 2023, text: 'Granted UO DucksRISE Research Fellowship to conduct Generative AI Research', },
-  { year: 2024, text: 'Graduating with Bachelors in Computer Science, with a Minor in Multimedia', },
+  { year: 2024, text: 'Graduated with Bachelors in Computer Science, with a Minor in Multimedia', },
 ];
